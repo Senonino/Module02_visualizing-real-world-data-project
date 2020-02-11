@@ -11,3 +11,7 @@ age per club per country.
 one bar graph
 Speed by Position Analysis
 Only the positions of striker (ST), center midfield (CM), center back (CB), goal keeper (GK) and overall (averaged over all players in the dataset) need to be analyzed.
+
+------------
+Which League Is the Youngest?
+Can I Earn a Living?
