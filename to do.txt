@@ -1,0 +1,11 @@
+one scatter plot
+player  value vs ratings
+
+one histogram
+nationalities per club per country.
+overall, heright, weight etc...
+
+one box plot
+age per club per country.
+
+one bar graph
