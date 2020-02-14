@@ -1,0 +1,34 @@
+,id,name,age,height,weight,nationality,club,rating,value_M,wage_K,preferred_foot,real_face,position,jersey_number,pace,shooting,passing,dribbling,defending,physic,heading,free_kick,ball_control,acceleration,speed,real_face_Yes,preferred_foot_Right
+0,221087,Pau López,24,189,77,Spain,Roma,83,26.0,38.0,Left,Yes,GK,12.0,,,,,,,15,21,16,45,52,1,0
+1,204935,J. Pickford,25,185,77,England,Everton,83,24.0,78.0,Left,Yes,GK,1.0,,,,,,,15,16,40,53,44,1,0
+2,212151,T. Strakosha,24,193,78,Albania,Lazio,82,22.0,39.0,Right,No,GK,1.0,,,,,,,11,12,15,41,46,0,1
+3,210035,Grimaldo,23,171,69,Spain,SL Benfica,83,29.5,18.0,Left,No,LB,3.0,85.0,63.0,79.0,84.0,77.0,71.0,65,81,83,86,84,0,0
+4,200458,L. Digne,25,178,74,France,Everton,83,28.5,97.0,Left,Yes,LB,12.0,78.0,69.0,79.0,79.0,80.0,76.0,71,83,83,79,78,1,0
+5,211688,Gayà,24,172,66,Spain,Valencia CF,81,21.0,35.0,Left,Yes,LB,14.0,85.0,61.0,77.0,80.0,75.0,69.0,52,49,81,83,87,1,0
+6,227928,Nélson Semedo,25,177,67,Portugal,FC Barcelona,82,26.0,150.0,Right,No,RB,2.0,92.0,57.0,69.0,81.0,77.0,75.0,58,30,80,91,92,0,1
+7,210243,Ricardo Pereira,25,175,70,Portugal,Leicester City,82,23.5,89.0,Right,Yes,RB,21.0,86.0,64.0,77.0,81.0,79.0,73.0,64,45,81,85,86,1,1
+8,203747,Héctor Bellerín,24,178,74,Spain,Arsenal,80,17.5,69.0,Right,Yes,RB,2.0,92.0,51.0,70.0,78.0,76.0,66.0,60,50,78,94,90,1,1
+9,203574,J. Stones,25,188,70,England,Manchester City,83,30.0,140.0,Right,Yes,CB,5.0,68.0,36.0,70.0,72.0,84.0,77.0,83,29,80,65,71,1,1
+10,225850,P. Kimpembe,23,189,80,France,Paris Saint-Germain,82,26.5,75.0,Left,Yes,CB,3.0,75.0,39.0,67.0,67.0,81.0,83.0,79,32,78,73,77,1,0
+11,211320,D. Rugani,24,190,84,Italy,Juventus,82,26.0,95.0,Right,Yes,CB,24.0,64.0,39.0,55.0,64.0,85.0,74.0,84,25,65,61,66,1,1
+12,240130,Éder Militão,21,186,78,Brazil,Real Madrid,81,23.0,105.0,Right,No,CB,3.0,79.0,50.0,66.0,71.0,81.0,81.0,77,40,71,78,80,0,1
+13,221660,V. Lindelöf,24,187,80,Sweden,Manchester United,81,22.0,97.0,Right,Yes,CB,2.0,74.0,50.0,72.0,72.0,82.0,78.0,79,59,76,72,76,1,1
+14,207862,M. Ginter,25,191,89,Germany,Borussia Mönchengladbach,81,19.5,33.0,Right,Yes,CB,28.0,62.0,58.0,69.0,65.0,82.0,77.0,85,42,72,54,69,1,1
+15,236632,David Neres,22,175,66,Brazil,Ajax,81,24.0,26.0,Left,No,LM,7.0,87.0,73.0,73.0,87.0,36.0,65.0,45,52,86,88,87,0,0
+16,207807,R. Fraser,25,163,70,Scotland,Bournemouth,81,21.5,76.0,Right,Yes,LM,24.0,90.0,73.0,78.0,83.0,46.0,61.0,30,72,81,92,88,1,1
+17,209889,R. Guerreiro,25,170,71,Portugal,Borussia Dortmund,81,21.5,79.0,Left,Yes,LM,13.0,73.0,75.0,82.0,85.0,66.0,57.0,37,82,85,80,68,1,0
+18,225953,S. Bergwijn,21,178,78,Netherlands,PSV,82,30.0,22.0,Right,No,RM,10.0,89.0,75.0,76.0,85.0,40.0,73.0,60,66,85,88,89,0,1
+19,214997,A. Correa,24,171,68,Argentina,Atlético Madrid,82,29.0,59.0,Right,Yes,RM,10.0,83.0,80.0,75.0,86.0,54.0,65.0,67,65,87,87,80,1,1
+20,221992,H. Lozano,23,175,70,Mexico,PSV,82,29.0,26.0,Right,Yes,RM,11.0,93.0,76.0,73.0,83.0,41.0,66.0,58,65,81,94,93,1,1
+21,207410,M. Kovačić,25,176,78,Croatia,Chelsea,82,29.0,125.0,Right,Yes,CM,17.0,76.0,68.0,81.0,86.0,67.0,70.0,42,68,89,79,73,1,1
+22,220971,N. Keïta,24,172,64,Guinea,Liverpool,82,29.0,95.0,Right,Yes,CM,8.0,71.0,73.0,76.0,88.0,65.0,66.0,42,70,88,77,66,1,1
+23,223959,L. Torreira,23,168,64,Uruguay,Arsenal,82,27.0,80.0,Right,Yes,CM,11.0,75.0,67.0,77.0,80.0,81.0,75.0,59,78,81,79,72,1,1
+24,208596,A. Belotti,25,181,72,Italy,Torino,82,30.0,63.0,Right,Yes,ST,9.0,77.0,81.0,57.0,77.0,41.0,82.0,84,56,75,77,77,1,1
+25,216201,Iñaki Williams,25,186,79,Spain,Athletic Club de Bilbao,82,29.0,36.0,Right,Yes,ST,9.0,94.0,80.0,72.0,80.0,41.0,82.0,71,53,77,93,95,1,1
+26,231478,L. Martínez,21,174,81,Argentina,Inter,81,27.0,61.0,Right,No,ST,10.0,81.0,77.0,68.0,82.0,40.0,83.0,82,33,82,81,81,0,1
+27,207791,Y. Poulsen,25,193,78,Denmark,RB Leipzig,81,22.0,65.0,Right,Yes,ST,9.0,83.0,74.0,67.0,75.0,56.0,82.0,85,43,76,81,84,1,1
+28,242444,João Félix,19,181,70,Portugal,Atlético Madrid,80,28.0,38.0,Right,No,ST,7.0,82.0,80.0,74.0,81.0,40.0,70.0,69,58,80,79,85,0,1
+29,223113,K. Piątek,24,183,77,Poland,Milan,80,20.5,44.0,Right,No,ST,9.0,76.0,80.0,53.0,73.0,38.0,71.0,80,40,76,78,75,0,1
+30,224458,Diogo Jota,22,178,73,Portugal,Wolverhampton Wanderers,80,20.5,84.0,Right,Yes,ST,18.0,83.0,77.0,70.0,84.0,53.0,76.0,52,58,84,88,79,1,1
+31,211591,M. Dembélé,22,183,74,France,Olympique Lyonnais,80,20.0,71.0,Right,No,ST,9.0,82.0,77.0,61.0,76.0,30.0,81.0,76,41,79,79,85,0,1
+32,212623,Santi Mina,23,181,77,Spain,RC Celta,80,20.0,29.0,Right,Yes,ST,22.0,77.0,79.0,69.0,78.0,53.0,72.0,77,55,79,75,78,1,1
